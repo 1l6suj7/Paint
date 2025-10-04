@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/RectangleDragging/">
+    <file alias="Main.qml">C:/Users/16939/Documents/repository/RectangleDragging/Main.qml</file>
+    <file alias="MainPage.qml">C:/Users/16939/Documents/repository/RectangleDragging/MainPage.qml</file>
+    <file alias="MyButton.qml">C:/Users/16939/Documents/repository/RectangleDragging/MyButton.qml</file>
+    <file alias="PaintPage.qml">C:/Users/16939/Documents/repository/RectangleDragging/PaintPage.qml</file>
+    <file alias="MyDialog.qml">C:/Users/16939/Documents/repository/RectangleDragging/MyDialog.qml</file>
+  </qresource>
+</RCC>
+

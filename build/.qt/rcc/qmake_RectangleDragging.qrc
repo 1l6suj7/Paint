@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RectangleDragging">
+    <file alias="qmldir">C:/Users/16939/Documents/repository/RectangleDragging/build/RectangleDragging/qmldir</file>
+  </qresource>
+</RCC>
+

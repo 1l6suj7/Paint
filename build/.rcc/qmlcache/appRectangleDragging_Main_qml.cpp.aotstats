@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"initialItem\".",
+                        "functionName": "initialItem",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"fill\".",
+                        "functionName": "fill",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name stack",
+                        "functionName": "onStart",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 21,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot access value for name stack",
+                        "functionName": "onExit",
+                        "line": 33
+                    }
+                ],
+                "filePath": "C:/Users/16939/Documents/repository/RectangleDragging/Main.qml"
+            }
+        ],
+        "moduleId": "RectangleDragging(appRectangleDragging)"
+    }
+]

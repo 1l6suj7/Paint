@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/16939/Documents/repository/RectangleDragging
+-cmake-output
+-output-file
+C:/Users/16939/Documents/repository/RectangleDragging/build/.qt/qml_imports/appRectangleDragging_conf.cmake
+-importPath
+C:/Users/16939/Documents/repository/RectangleDragging/build/RectangleDragging
+-importPath
+C:/Users/16939/Documents/repository/RectangleDragging/build
+-importPath
+D:/Qt/6.9.1/mingw_64/qml
+-qrcFiles
+C:/Users/16939/Documents/repository/RectangleDragging/build/.qt/rcc/qmake_RectangleDragging.qrc
+C:/Users/16939/Documents/repository/RectangleDragging/build/.qt/rcc/appRectangleDragging_raw_qml_0.qrc

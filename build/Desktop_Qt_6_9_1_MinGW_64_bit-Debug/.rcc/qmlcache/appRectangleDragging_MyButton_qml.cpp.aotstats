@@ -1,0 +1,108 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "onContainsMouseChanged",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "onPressedChanged",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 59
+                    }
+                ],
+                "filePath": "C:/Users/16939/Documents/repository/RectangleDragging/MyButton.qml"
+            }
+        ],
+        "moduleId": "RectangleDragging(appRectangleDragging)"
+    }
+]

@@ -1,0 +1,114 @@
+{
+    "classes": [
+        {
+            "className": "DraggingLogic",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "DraggingLogic",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "saveSucceeded",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "saveFailed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "loadSucceeded",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "loadFailed",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newX",
+                            "type": "qreal"
+                        },
+                        {
+                            "name": "newY",
+                            "type": "qreal"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "setCoord",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newWidth",
+                            "type": "qreal"
+                        },
+                        {
+                            "name": "newHeight",
+                            "type": "qreal"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "setScale",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "name": "getInfo",
+                    "returnType": "QVariantMap"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QUrl"
+                        }
+                    ],
+                    "index": 7,
+                    "name": "saveAsFile",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QUrl"
+                        }
+                    ],
+                    "index": 8,
+                    "name": "loadFromFile",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "name": "getIsSave",
+                    "returnType": "bool"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "dragginglogic.h",
+    "outputRevision": 69
+}

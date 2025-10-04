@@ -1,0 +1,16 @@
+--bare
+-I
+C:/Users/16939/Documents/repository/RectangleDragging/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+D:/Qt/6.9.1/mingw_64/qml
+--resource
+C:/Users/16939/Documents/repository/RectangleDragging/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_RectangleDragging.qrc
+--resource
+C:/Users/16939/Documents/repository/RectangleDragging/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appRectangleDragging_raw_qml_0.qrc
+C:/Users/16939/Documents/repository/RectangleDragging/Main.qml
+C:/Users/16939/Documents/repository/RectangleDragging/MainPage.qml
+C:/Users/16939/Documents/repository/RectangleDragging/MyButton.qml
+C:/Users/16939/Documents/repository/RectangleDragging/PaintPage.qml
+C:/Users/16939/Documents/repository/RectangleDragging/MyDialog.qml
+--json
+C:/Users/16939/Documents/repository/RectangleDragging/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appRectangleDragging_qmllint.json

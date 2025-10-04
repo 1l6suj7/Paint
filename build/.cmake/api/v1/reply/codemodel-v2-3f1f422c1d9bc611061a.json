@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-724b12d231af77c2545c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RectangleDragging",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-a1a78eafb7003f79b2f5.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-2553d096dfd4f17fcdb2.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-7730ea244ab6b095ce0e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-19ed3aae4a158ff306d9.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-6db47169cedf3600397b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging-Debug-87cf2181dedaaa716342.json",
+					"name" : "appRectangleDragging",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_autogen-Debug-b3f6d0d25da326e901bd.json",
+					"name" : "appRectangleDragging_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_autogen_timestamp_deps-Debug-96b4a6c76b107dc95447.json",
+					"name" : "appRectangleDragging_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_copy_qml-Debug-4a80f0a9ff19ed33bb4e.json",
+					"name" : "appRectangleDragging_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_copy_res-Debug-5b66b33912035aa24d1b.json",
+					"name" : "appRectangleDragging_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_generate_qmlls_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_generate_qmlls_ini_file-Debug-21b2010059a75f3902fd.json",
+					"name" : "appRectangleDragging_generate_qmlls_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_qmlimportscan-Debug-107ccb25fb4475af8f9f.json",
+					"name" : "appRectangleDragging_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_qmllint-Debug-4fd0864e84f6289216d2.json",
+					"name" : "appRectangleDragging_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_qmllint_json-Debug-61e6e9df630a573fd19d.json",
+					"name" : "appRectangleDragging_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_qmllint_module-Debug-b4a4ae98c7970c84ff45.json",
+					"name" : "appRectangleDragging_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRectangleDragging_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRectangleDragging_qmltyperegistration-Debug-7955f46c5a76df45cdb3.json",
+					"name" : "appRectangleDragging_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appRectangleDragging_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appRectangleDragging_aotstats_target-Debug-00da3448d238acf9e2db.json",
+					"name" : "module_appRectangleDragging_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/16939/Documents/repository/RectangleDragging/build",
+		"source" : "C:/Users/16939/Documents/repository/RectangleDragging"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
