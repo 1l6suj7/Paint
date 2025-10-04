@@ -1,24 +1,24 @@
 appPaint_autogen/timestamp: \
 	C:/Users/16939/Documents/repository/Paint/CMakeLists.txt \
-	C:/Users/16939/Documents/repository/Paint/Graphiclogic.cpp \
-	C:/Users/16939/Documents/repository/Paint/Graphiclogic.h \
-	C:/Users/16939/Documents/repository/Paint/abstractgraphic.cpp \
-	C:/Users/16939/Documents/repository/Paint/abstractgraphic.h \
 	C:/Users/16939/Documents/repository/Paint/build/.qt/qml_imports/appPaint_conf.cmake \
 	C:/Users/16939/Documents/repository/Paint/build/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
 	C:/Users/16939/Documents/repository/Paint/build/CMakeFiles/3.30.5/CMakeRCCompiler.cmake \
 	C:/Users/16939/Documents/repository/Paint/build/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	C:/Users/16939/Documents/repository/Paint/build/appPaint_autogen/moc_predefs.h \
-	C:/Users/16939/Documents/repository/Paint/gcircle.cpp \
-	C:/Users/16939/Documents/repository/Paint/gcircle.h \
-	C:/Users/16939/Documents/repository/Paint/ghexagon.cpp \
-	C:/Users/16939/Documents/repository/Paint/ghexagon.h \
-	C:/Users/16939/Documents/repository/Paint/gline.cpp \
-	C:/Users/16939/Documents/repository/Paint/gline.h \
-	C:/Users/16939/Documents/repository/Paint/grectangle.cpp \
-	C:/Users/16939/Documents/repository/Paint/grectangle.h \
-	C:/Users/16939/Documents/repository/Paint/gtriangle.cpp \
-	C:/Users/16939/Documents/repository/Paint/gtriangle.h \
+	C:/Users/16939/Documents/repository/Paint/cpp/abstractgraphic.cpp \
+	C:/Users/16939/Documents/repository/Paint/cpp/abstractgraphic.h \
+	C:/Users/16939/Documents/repository/Paint/cpp/gcircle.cpp \
+	C:/Users/16939/Documents/repository/Paint/cpp/gcircle.h \
+	C:/Users/16939/Documents/repository/Paint/cpp/ghexagon.cpp \
+	C:/Users/16939/Documents/repository/Paint/cpp/ghexagon.h \
+	C:/Users/16939/Documents/repository/Paint/cpp/gline.cpp \
+	C:/Users/16939/Documents/repository/Paint/cpp/gline.h \
+	C:/Users/16939/Documents/repository/Paint/cpp/graphiclogic.cpp \
+	C:/Users/16939/Documents/repository/Paint/cpp/graphiclogic.h \
+	C:/Users/16939/Documents/repository/Paint/cpp/grectangle.cpp \
+	C:/Users/16939/Documents/repository/Paint/cpp/grectangle.h \
+	C:/Users/16939/Documents/repository/Paint/cpp/gtriangle.cpp \
+	C:/Users/16939/Documents/repository/Paint/cpp/gtriangle.h \
 	C:/Users/16939/Documents/repository/Paint/main.cpp \
 	D:/Qt/6.9.1/mingw_64/include/QtCore/QJsonArray \
 	D:/Qt/6.9.1/mingw_64/include/QtCore/QMap \

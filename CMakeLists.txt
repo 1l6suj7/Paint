@@ -16,22 +16,21 @@ qt_add_qml_module(appPaint
     URI Paint
     VERSION 1.0
     QML_FILES
-        Main.qml
-        SOURCES Graphiclogic.h Graphiclogic.cpp
-        QML_FILES MainPage.qml
-        QML_FILES MyButton.qml
-        QML_FILES PaintPage.qml
-        QML_FILES MyDialog.qml
-        SOURCES abstractgraphic.h abstractgraphic.cpp
-        SOURCES grectangle.h grectangle.cpp
-        SOURCES gcircle.h gcircle.cpp
-        SOURCES gtriangle.h gtriangle.cpp
-        SOURCES
-        SOURCES ghexagon.h ghexagon.cpp
-        SOURCES gline.h gline.cpp
-        QML_FILES GCanvas.qml
-        QML_FILES RightPanel.qml
-        QML_FILES ToolsPanel.qml
+        qml/Main.qml
+        SOURCES cpp/graphiclogic.h cpp/graphiclogic.cpp
+        QML_FILES qml/MainPage.qml
+        QML_FILES qml/MyButton.qml
+        QML_FILES qml/PaintPage.qml
+        QML_FILES qml/MyDialog.qml
+        SOURCES cpp/abstractgraphic.h cpp/abstractgraphic.cpp
+        SOURCES cpp/grectangle.h cpp/grectangle.cpp
+        SOURCES cpp/gcircle.h cpp/gcircle.cpp
+        SOURCES cpp/gtriangle.h cpp/gtriangle.cpp
+        SOURCES cpp/ghexagon.h cpp/ghexagon.cpp
+        SOURCES cpp/gline.h cpp/gline.cpp
+        QML_FILES qml/GCanvas.qml
+        QML_FILES qml/RightPanel.qml
+        QML_FILES qml/ToolsPanel.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

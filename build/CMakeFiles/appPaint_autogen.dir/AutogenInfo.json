@@ -874,6 +874,8 @@
 		"D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
 		"D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"D:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
 		"D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
 		"C:/Users/16939/Documents/repository/Paint/build/.qt/qml_imports/appPaint_conf.cmake"
@@ -885,45 +887,45 @@
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/16939/Documents/repository/Paint/Graphiclogic.h",
+			"C:/Users/16939/Documents/repository/Paint/cpp/abstractgraphic.h",
 			"MU",
-			"EWIEGA46WW/moc_Graphiclogic.cpp",
+			"SVODSI3R2M/moc_abstractgraphic.cpp",
 			null
 		],
 		[
-			"C:/Users/16939/Documents/repository/Paint/abstractgraphic.h",
+			"C:/Users/16939/Documents/repository/Paint/cpp/gcircle.h",
 			"MU",
-			"EWIEGA46WW/moc_abstractgraphic.cpp",
+			"SVODSI3R2M/moc_gcircle.cpp",
 			null
 		],
 		[
-			"C:/Users/16939/Documents/repository/Paint/gcircle.h",
+			"C:/Users/16939/Documents/repository/Paint/cpp/ghexagon.h",
 			"MU",
-			"EWIEGA46WW/moc_gcircle.cpp",
+			"SVODSI3R2M/moc_ghexagon.cpp",
 			null
 		],
 		[
-			"C:/Users/16939/Documents/repository/Paint/ghexagon.h",
+			"C:/Users/16939/Documents/repository/Paint/cpp/gline.h",
 			"MU",
-			"EWIEGA46WW/moc_ghexagon.cpp",
+			"SVODSI3R2M/moc_gline.cpp",
 			null
 		],
 		[
-			"C:/Users/16939/Documents/repository/Paint/gline.h",
+			"C:/Users/16939/Documents/repository/Paint/cpp/graphiclogic.h",
 			"MU",
-			"EWIEGA46WW/moc_gline.cpp",
+			"SVODSI3R2M/moc_graphiclogic.cpp",
 			null
 		],
 		[
-			"C:/Users/16939/Documents/repository/Paint/grectangle.h",
+			"C:/Users/16939/Documents/repository/Paint/cpp/grectangle.h",
 			"MU",
-			"EWIEGA46WW/moc_grectangle.cpp",
+			"SVODSI3R2M/moc_grectangle.cpp",
 			null
 		],
 		[
-			"C:/Users/16939/Documents/repository/Paint/gtriangle.h",
+			"C:/Users/16939/Documents/repository/Paint/cpp/gtriangle.h",
 			"MU",
-			"EWIEGA46WW/moc_gtriangle.cpp",
+			"SVODSI3R2M/moc_gtriangle.cpp",
 			null
 		]
 	],
@@ -1008,15 +1010,16 @@
 	"MOC_SKIP" : 
 	[
 		"C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/qrc_appPaint_raw_qml_0.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/qrc_appPaint_raw_qml_0_extra_qmldirs.cpp",
 		"C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/qrc_qmake_Paint.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_GCanvas_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_MainPage_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_Main_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_MyButton_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_MyDialog_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_PaintPage_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_RightPanel_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_ToolsPanel_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/GCanvas_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/MainPage_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/Main_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/MyButton_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/MyDialog_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/PaintPage_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/RightPanel_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/ToolsPanel_qml.cpp",
 		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qmlcache_loader.cpp",
 		"C:/Users/16939/Documents/repository/Paint/build/apppaint_qmltyperegistrations.cpp"
 	],
@@ -1031,24 +1034,36 @@
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/16939/Documents/repository/Paint/Graphiclogic.cpp",
+			"C:/Users/16939/Documents/repository/Paint/cpp/abstractgraphic.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/16939/Documents/repository/Paint/abstractgraphic.cpp",
+			"C:/Users/16939/Documents/repository/Paint/cpp/gcircle.cpp",
 			"MU",
 			null
 		],
-		[ "C:/Users/16939/Documents/repository/Paint/gcircle.cpp", "MU", null ],
-		[ "C:/Users/16939/Documents/repository/Paint/ghexagon.cpp", "MU", null ],
-		[ "C:/Users/16939/Documents/repository/Paint/gline.cpp", "MU", null ],
 		[
-			"C:/Users/16939/Documents/repository/Paint/grectangle.cpp",
+			"C:/Users/16939/Documents/repository/Paint/cpp/ghexagon.cpp",
 			"MU",
 			null
 		],
-		[ "C:/Users/16939/Documents/repository/Paint/gtriangle.cpp", "MU", null ],
+		[ "C:/Users/16939/Documents/repository/Paint/cpp/gline.cpp", "MU", null ],
+		[
+			"C:/Users/16939/Documents/repository/Paint/cpp/graphiclogic.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/16939/Documents/repository/Paint/cpp/grectangle.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/16939/Documents/repository/Paint/cpp/gtriangle.cpp",
+			"MU",
+			null
+		],
 		[ "C:/Users/16939/Documents/repository/Paint/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
@@ -1056,15 +1071,16 @@
 	"UIC_SKIP" : 
 	[
 		"C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/qrc_appPaint_raw_qml_0.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/qrc_appPaint_raw_qml_0_extra_qmldirs.cpp",
 		"C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/qrc_qmake_Paint.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_GCanvas_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_MainPage_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_Main_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_MyButton_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_MyDialog_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_PaintPage_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_RightPanel_qml.cpp",
-		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_ToolsPanel_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/GCanvas_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/MainPage_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/Main_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/MyButton_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/MyDialog_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/PaintPage_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/RightPanel_qml.cpp",
+		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qml/ToolsPanel_qml.cpp",
 		"C:/Users/16939/Documents/repository/Paint/build/.rcc/qmlcache/appPaint_qmlcache_loader.cpp",
 		"C:/Users/16939/Documents/repository/Paint/build/apppaint_qmltyperegistrations.cpp"
 	],

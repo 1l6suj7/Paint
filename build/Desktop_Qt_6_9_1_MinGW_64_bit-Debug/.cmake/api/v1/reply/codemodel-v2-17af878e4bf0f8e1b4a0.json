@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f31242822cf4cdca5cfc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Paint",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-d3caf321f33ee8bdef6a.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-282b928f57680c49239b.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-d8ae275b25cf2878e45b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9f6d9fd289bcffeef0aa.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-672cdd5cbc1bd6be42aa.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint-Debug-a38eb3f7eef401a4cce1.json",
+					"name" : "appPaint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint_autogen-Debug-6adcf6241d04b18fc082.json",
+					"name" : "appPaint_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint_autogen_timestamp_deps-Debug-eebf2bb0d52ca8574d32.json",
+					"name" : "appPaint_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint_copy_qml-Debug-bbadfb73b0b17afc64e6.json",
+					"name" : "appPaint_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint_copy_res-Debug-c227fe2a4d58288ca54f.json",
+					"name" : "appPaint_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint_qmlimportscan-Debug-8c9fa7636f74ecb687e4.json",
+					"name" : "appPaint_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint_qmllint-Debug-857dc246c0dab23b5592.json",
+					"name" : "appPaint_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint_qmllint_json-Debug-f7cc35aeca19d6a35fe9.json",
+					"name" : "appPaint_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint_qmllint_module-Debug-7cce74a4c414320ab9a8.json",
+					"name" : "appPaint_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPaint_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPaint_qmltyperegistration-Debug-e2d98f5ff406e5251473.json",
+					"name" : "appPaint_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appPaint_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appPaint_aotstats_target-Debug-5814c449f11904d725ef.json",
+					"name" : "module_appPaint_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/16939/Documents/repository/Paint/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/16939/Documents/repository/Paint"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

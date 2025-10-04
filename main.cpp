@@ -1,7 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 
-#include <Graphiclogic.h>
+#include <cpp/graphiclogic.h>
 
 int main(int argc, char *argv[])
 {

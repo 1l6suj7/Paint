@@ -50,7 +50,7 @@
 ### 后端 (C++)
 ```
 ├── main.cpp               # 应用程序入口
-├── Graphiclogic.h/cpp     # 图形管理核心逻辑
+├── graphiclogic.h/cpp     # 图形管理核心逻辑
 ├── abstractgraphic.h/cpp  # 图形抽象基类
 ├── grectangle.h/cpp       # 矩形图形类
 ├── gcircle.h/cpp          # 圆形图形类
