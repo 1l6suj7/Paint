@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "modality",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "title",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 15,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name txt",
+                        "functionName": "text",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot access value for name mode",
+                        "functionName": "visible",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name mode",
+                        "functionName": "visible",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 49
+                    }
+                ],
+                "filePath": "C:/Users/16939/Documents/repository/Paint/MyDialog.qml"
+            }
+        ],
+        "moduleId": "Paint(appPaint)"
+    }
+]

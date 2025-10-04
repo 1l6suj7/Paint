@@ -1,0 +1,12 @@
+--resource
+C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/qmake_Paint.qrc
+--resource
+C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/appPaint_raw_qml_0.qrc
+/qt/qml/Paint/Main.qml
+/qt/qml/Paint/MainPage.qml
+/qt/qml/Paint/MyButton.qml
+/qt/qml/Paint/PaintPage.qml
+/qt/qml/Paint/MyDialog.qml
+/qt/qml/Paint/GCanvas.qml
+/qt/qml/Paint/RightPanel.qml
+/qt/qml/Paint/ToolsPanel.qml

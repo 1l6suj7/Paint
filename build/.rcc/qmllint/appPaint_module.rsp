@@ -1,0 +1,10 @@
+-I
+C:/Users/16939/Documents/repository/Paint/build
+-I
+D:/Qt/6.9.1/mingw_64/qml
+--resource
+C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/qmake_Paint.qrc
+--resource
+C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/appPaint_raw_qml_0.qrc
+--module
+Paint

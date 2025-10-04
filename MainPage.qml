@@ -60,7 +60,7 @@ Item {
         anchors.bottomMargin: 25
         anchors.left: parent.left
         anchors.leftMargin: 25
-        text: "version: 1.0"
+        text: "version: 0.1"
         font.pixelSize: 30
         font.family: "Consola"
     }

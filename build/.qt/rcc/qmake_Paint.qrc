@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Paint">
+    <file alias="qmldir">C:/Users/16939/Documents/repository/Paint/build/Paint/qmldir</file>
+  </qresource>
+</RCC>
+

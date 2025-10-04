@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/16939/Documents/repository/Paint
+-cmake-output
+-output-file
+C:/Users/16939/Documents/repository/Paint/build/.qt/qml_imports/appPaint_conf.cmake
+-importPath
+C:/Users/16939/Documents/repository/Paint/build/Paint
+-importPath
+C:/Users/16939/Documents/repository/Paint/build
+-importPath
+D:/Qt/6.9.1/mingw_64/qml
+-qrcFiles
+C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/qmake_Paint.qrc
+C:/Users/16939/Documents/repository/Paint/build/.qt/rcc/appPaint_raw_qml_0.qrc

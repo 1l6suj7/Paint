@@ -1,9 +1,0 @@
-module RectangleDragging
-typeinfo appRectangleDragging.qmltypes
-prefer :/qt/qml/RectangleDragging/
-Main 1.0 Main.qml
-MainPage 1.0 MainPage.qml
-MyButton 1.0 MyButton.qml
-PaintPage 1.0 PaintPage.qml
-MyDialog 1.0 MyDialog.qml
-

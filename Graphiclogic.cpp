@@ -8,7 +8,7 @@
 #include "grectangle.h"
 #include "gcircle.h"
 #include "gtriangle.h"
-#include "gpolygon.h"
+#include "ghexagon.h"
 #include "gline.h"
 
 GraphicLogic::GraphicLogic(QObject * parent): QObject(parent) {}
@@ -36,7 +36,7 @@ void GraphicLogic::newGraphic(QVariantMap info)
     } else if (type == "triangle") {
         gra = new GTriangle(info);
     } else if (type == "hexagon") {
-        gra = new GPolygon(info);
+        gra = new GHexagon(info);
     } else if (type == "line") {
         gra = new GLine(info);
     }
@@ -266,7 +266,7 @@ QVariantMap GraphicLogic::getPreviewGraphicInfo(QString type, qreal startX, qrea
     } else if (type == "triangle") {
         tempGraphic = new GTriangle();
     } else if (type == "hexagon") {
-        tempGraphic = new GPolygon();
+        tempGraphic = new GHexagon();
     } else if (type == "line") {
         tempGraphic = new GLine();
     }

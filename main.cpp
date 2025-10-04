@@ -15,6 +15,6 @@ int main(int argc, char *argv[])
         []() { QCoreApplication::exit(-1); },
         Qt::QueuedConnection);
     qmlRegisterSingletonInstance("GraphicLogic", 1, 0, "GraphicLogic", GraphicLogic::getInstance());
-    engine.loadFromModule("RectangleDragging", "Main");
+    engine.loadFromModule("Paint", "Main");
     return app.exec();
 }

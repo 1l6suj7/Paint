@@ -1,9 +1,0 @@
---resource
-C:/Users/16939/Documents/repository/RectangleDragging/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_RectangleDragging.qrc
---resource
-C:/Users/16939/Documents/repository/RectangleDragging/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appRectangleDragging_raw_qml_0.qrc
-/qt/qml/RectangleDragging/Main.qml
-/qt/qml/RectangleDragging/MainPage.qml
-/qt/qml/RectangleDragging/MyButton.qml
-/qt/qml/RectangleDragging/PaintPage.qml
-/qt/qml/RectangleDragging/MyDialog.qml

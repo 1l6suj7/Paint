@@ -1,0 +1,292 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "",
+                        "functionName": "isSelected",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "isSelected",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "isSelected",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "isSelected",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "",
+                        "functionName": "isSelected",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "",
+                        "functionName": "isSelected",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property isSelected from (component in C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 151
+                    }
+                ],
+                "filePath": "C:/Users/16939/Documents/repository/Paint/ToolsPanel.qml"
+            }
+        ],
+        "moduleId": "Paint(appPaint)"
+    }
+]

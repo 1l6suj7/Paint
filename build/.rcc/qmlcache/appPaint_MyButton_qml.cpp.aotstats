@@ -1,0 +1,116 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "onContainsMouseChanged",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "onPressedChanged",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 60
+                    }
+                ],
+                "filePath": "C:/Users/16939/Documents/repository/Paint/MyButton.qml"
+            }
+        ],
+        "moduleId": "Paint(appPaint)"
+    }
+]

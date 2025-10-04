@@ -34,7 +34,7 @@ endif()
 set(__QT_DEPLOY_SYSTEM_NAME "Windows")
 set(__QT_DEPLOY_IS_SHARED_LIBS_BUILD "ON")
 set(__QT_DEPLOY_TOOL "D:/Qt/6.9.1/mingw_64/bin/windeployqt.exe")
-set(__QT_DEPLOY_IMPL_DIR "C:/Users/16939/Documents/repository/RectangleDragging/build/.qt")
+set(__QT_DEPLOY_IMPL_DIR "C:/Users/16939/Documents/repository/Paint/build/.qt")
 set(__QT_DEPLOY_VERBOSE "")
 set(__QT_CMAKE_EXPORT_NAMESPACE "Qt6")
 set(__QT_DEPLOY_GENERATOR_IS_MULTI_CONFIG "0")
@@ -58,7 +58,7 @@ set(__QT_DEPLOY_QT_DEBUG_POSTFIX "")
 
 # Define the CMake commands to be made available during deployment.
 set(__qt_deploy_support_files
-    "C:/Users/16939/Documents/repository/RectangleDragging/build/.qt/QtDeployTargets.cmake"
+    "C:/Users/16939/Documents/repository/Paint/build/.qt/QtDeployTargets.cmake"
     "D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDeploySupport.cmake"
     "D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlDeploySupport.cmake"
 )
